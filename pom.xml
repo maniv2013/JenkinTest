@@ -40,7 +40,7 @@
 									<delimiterType>normal</delimiterType>
 									<autocommit>true</autocommit>
 									<srcFiles>
-										<srcFile>customer.sql</srcFile>
+										<srcFile>src/main/scripts/customer.sql</srcFile>
 									</srcFiles>
 								</configuration>
 							</execution>
@@ -101,7 +101,7 @@
 									<delimiterType>normal</delimiterType>
 									<autocommit>true</autocommit>
 									<srcFiles>
-										<srcFile>nextcustomer.sql</srcFile>
+										<srcFile>src/main/scripts/nextcustomer.sql</srcFile>
 									</srcFiles>
 								</configuration>
 							</execution>
