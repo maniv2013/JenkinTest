@@ -1,1 +1,5 @@
-insert into cities values ('chennai','india',3);
+declare
+begin
+insert into cities values ('chennai','india',5);
+end
+/
